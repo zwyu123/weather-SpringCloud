@@ -1,4 +1,4 @@
-package com.spring.cloud.microweatherbasic;
+package com.spring.cloud.weather;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
